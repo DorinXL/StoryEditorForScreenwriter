@@ -1,0 +1,16 @@
+E:\Project\C#\ExcelWinForm\ExcelWinForm\bin\Debug\ExcelWinForm.exe.config
+E:\Project\C#\ExcelWinForm\ExcelWinForm\bin\Debug\ExcelWinForm.exe
+E:\Project\C#\ExcelWinForm\ExcelWinForm\bin\Debug\ExcelWinForm.pdb
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.csprojAssemblyReference.cache
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.AddFrom.resources
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.Form1.resources
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.Properties.Resources.resources
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.csproj.GenerateResource.cache
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.csproj.CoreCompileInputs.cache
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.exe
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.pdb
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.TransForm.resources
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.CheckExcel.resources
+E:\Project\C#\ExcelWinForm\ExcelWinForm\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Project\C#\ExcelWinForm\ExcelWinForm\bin\Debug\stdole.dll
+E:\Project\C#\ExcelWinForm\ExcelWinForm\obj\Debug\ExcelWinForm.csproj.CopyComplete
