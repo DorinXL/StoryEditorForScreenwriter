@@ -1,5 +1,5 @@
 # StoryEditorForScreenwriter
-我的一个gal游戏项目，编剧与程序分离，写了个小程序帮助编剧工作。BetterWork!
+一个gal游戏项目，编剧与程序分离，写了个小程序帮助编剧工作。
  &nbsp;
  
 ### 使用方法
